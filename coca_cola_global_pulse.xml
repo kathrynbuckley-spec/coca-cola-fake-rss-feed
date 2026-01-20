@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Coca-Cola Global Pulse</title>
-    <link>https://portal.coca-cola.com/global-pulse</link>
+    <link>https://kathrynbuckley-spec.github.io/coca-cola-fake-rss-feed/</link>
     <description>Real-time updates from Coca-Cola facilities worldwide</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jan 2026 14:30:00 GMT</lastBuildDate>
-    <atom:link href="https://portal.coca-cola.com/global-pulse/feed" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 20 Jan 2026 14:30:00 GMT</lastBuildDate>
+    <atom:link href="https://kathrynbuckley-spec.github.io/coca-cola-fake-rss-feed/coca_cola_global_pulse.xml" rel="self" type="application/rss+xml"/>
     
     <item>
       <title>Dallas Site: Best Practice Uploaded - 'Forklift Charging Safety'</title>
